@@ -34,4 +34,4 @@ The system captures encoder pulses at the Master station, processes the logic vi
 Below are the links to the project's visual results and source materials:
 * **Video Demonstration:**https://drive.google.com/drive/folders/1xLXhC-gNvBJkIGRZS8W3qze1D7Q01DCn
 ---
-**Author:** Cao Khánh Duy (Student ID: 22130040) [cite: 14, 15]  
+**Author:** Cao Khánh Duy (Student ID: 22130040).
